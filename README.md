@@ -1,2 +1,1 @@
-# Henry
-Repositorio de prueba número 3 del PrepCurse Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde mo github a mi escritorio local
